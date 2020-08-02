@@ -18,7 +18,7 @@
  ----  | ----  | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
  
  ## 2、因为数据量过大，所以将数据集分块处理，8G及以下内存电脑无法直接读取数据集
- [图片名称](https://www.baidu.com/img/bd_logo1.png)
+ ![图片名称](https://github.com/LiuDD2333/readme/blob/master/split.jpg)
  ## 3、处理JSON列和类JSON列
  ### 需要处理的列的描述：
  #### JSON列：
