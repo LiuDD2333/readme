@@ -35,3 +35,6 @@
   ## 5、删除常数列 删除缺失值太多的列
   ### 值是常数的列去掉，剩38列
   ### 缺失大于90%的字段删掉，剩31列
+## 6、数据集缺省值填充
+  ### 'bounces', 'transactions', 'totalTransactionRevenue', 'index', 'newVisits', 'timeOnSite', 'sessionQualityDim' 填充0
+  ### 'referralPath', 'isTrueDirect', 'keyword', 'value' 填充Nan的值
